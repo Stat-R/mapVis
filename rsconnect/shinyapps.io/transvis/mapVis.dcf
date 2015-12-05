@@ -1,0 +1,9 @@
+name: mapVis
+account: transvis
+server: shinyapps.io
+appId: 72197
+bundleId: 325207
+url: https://transvis.shinyapps.io/mapVis
+when: 1449334860.64148
+asMultiple: FALSE
+asStatic: FALSE

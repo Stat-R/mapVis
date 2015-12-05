@@ -1,0 +1,9 @@
+name: vismap
+account: transvis
+server: shinyapps.io
+appId: 72196
+bundleId: 325194
+url: https://transvis.shinyapps.io/vismap
+when: 1449333261.43101
+asMultiple: FALSE
+asStatic: FALSE
