@@ -1,1 +1,2 @@
-"# Some shiny app for testing\n ## Thankyou" 
+# Some shiny app for testing 
+##Thankyou
